@@ -4,5 +4,9 @@
 
 <a/>
 <script>alert(1)</script>
+  
+<line x1="0" y1="0" x2="3001" y2="5000" style="aaaaaa;aaaa"/>
+  
+<line x1="0" y1="0" x2="3001" y2="5000" style="aaaaaa"/>
 
 </svg>
