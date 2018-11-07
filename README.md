@@ -4,7 +4,7 @@
 
 ![alt](attack2.svg)
 
-![ALT](TEST3.svg)
+![ALT](TEST3.SVG)
 
 ![alt](big.svg)
 
